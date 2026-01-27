@@ -1,6 +1,6 @@
 # SOC Analyst Portfolio
 
-Hello , I’m Bamgbopa Opemipo, an aspiring SOC Analyst with hands-on experience in security monitoring, alert triage, log analysis, and incident reporting.
+Hello, I’m Bamgbopa Opemipo, an aspiring SOC Analyst with hands-on experience in security monitoring, alert triage, log analysis, and incident reporting.
 
 This portfolio contains practical SOC investigation reports completed using **TryHackMe** and **LetsDefend**, demonstrating my ability to analyze alerts, investigate logs, and classify incidents accurately.
 
@@ -15,11 +15,11 @@ This portfolio contains practical SOC investigation reports completed using **Tr
 - TryHackMe
 - LetsDefend
 
- ## Repository Structure
+## Repository Structure
 - TryHackMe/
 - LetsDefend/
 
-  ## Contents
+## Contents
 - TryHackMe: Intro to Defensive Security, SOC Fundamentals, Intro to SIEM
 - LetsDefend: Brute Force, Suspicious Login alerts
 
