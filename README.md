@@ -16,8 +16,8 @@ This portfolio contains practical SOC investigation reports completed using **Tr
 - LetsDefend
 
 ## Repository Structure
-- TryHackMe/
 - LetsDefend/
+- TryHackMe/
 
 ## Contents
 - TryHackMe: Intro to Defensive Security, SOC Fundamentals, Intro to SIEM
