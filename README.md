@@ -19,6 +19,10 @@ This portfolio contains practical SOC investigation reports completed using **Tr
 - TryHackMe/
 - LetsDefend/
 
+  ## Contents
+- TryHackMe: Intro to Defensive Security, SOC Fundamentals, Intro to SIEM
+- LetsDefend: Brute Force, Suspicious Login alerts
+
 This portfolio reflects practical SOC analyst skills and continuous learning.
 
 ## GitHub Profile
