@@ -15,5 +15,11 @@ This portfolio contains practical SOC investigation reports completed using **Tr
 - TryHackMe
 - LetsDefend
 
+ ## Repository Structure
+- TryHackMe/
+- LetsDefend/
+
+This portfolio reflects practical SOC analyst skills and continuous learning.
+
 ## GitHub Profile
 https://github.com/opemipo-soc-analyst
