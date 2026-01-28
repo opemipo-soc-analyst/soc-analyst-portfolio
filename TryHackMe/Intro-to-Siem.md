@@ -56,9 +56,14 @@ The investigation followed standard SOC analysis procedures:
 ## 5. Evidence Collected
 The following evidence was reviewed during the investigation:
 
-- SIEM alert overview  
-- Log search results  
-- Detailed event information  
+### SIEM Alert Overview
+![SIEM Alert Overview](screenshots/siem-alert-overview.png)
+
+### Log Search Results
+![Log Search Results](screenshots/log-search-results.png)
+
+### Event Detail View
+![Event Detail View](screenshots/event-details.png)
 
 ---
 
