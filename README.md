@@ -1,29 +1,28 @@
 # SOC Analyst Portfolio
 
-Hello, I’m Bamgbopa Opemipo, an aspiring SOC Analyst with hands-on experience in security monitoring, alert triage, log analysis, and incident reporting.
+This repository demonstrates my practical experience in Security Operations, including alert investigation, SIEM log analysis, and incident reporting.
 
-This portfolio contains practical SOC investigation reports completed using **TryHackMe** and **LetsDefend**, demonstrating my ability to analyze alerts, investigate logs, and classify incidents accurately.
+## 📂 Content Overview
 
-## Skills Demonstrated
-- SOC alert triage and investigation
-- SIEM log analysis
-- Brute force attack detection
-- Incident classification (True / False Positive)
-- Security event documentation
+### 🔹 TryHackMe Reports
+- **Intro to Defensive Security** – foundational SOC concepts  
+- **SOC Fundamentals** – workflow and alert classification  
+- **Intro to SIEM** – SIEM investigation & event analysis
 
-## Platforms Used
-- TryHackMe
-- LetsDefend
+### 🔹 LetsDefend Reports
+- **Brute Force Attack** – hands-on alert triage and classification  
+*More LetsDefend reports to be added soon*
 
-## Repository Structure
-- LetsDefend/
-- TryHackMe/
+## 🛠 Skills Demonstrated
+- Alert triage and investigation
+- SIEM log review and analysis
+- Incident decision-making (True/False Positive)
+- Documentation of alerts, logs, and outcomes
 
-## Contents
-- TryHackMe: Intro to Defensive Security, SOC Fundamentals, Intro to SIEM
-- LetsDefend: Brute Force, Suspicious Login alerts
+## 📁 More Projects (Coming Soon)
+- Home Lab Event Log Monitoring
+- Windows & Linux log analysis reports
 
-This portfolio reflects practical SOC analyst skills and continuous learning.
-
-## GitHub Profile
-https://github.com/opemipo-soc-analyst
+## 📌 Contact
+Find me on LinkedIn: https://www.linkedin.com/in/bamgbopa-opemipo  
+Portfolio: https://github.com/opemipo-soc-analyst
