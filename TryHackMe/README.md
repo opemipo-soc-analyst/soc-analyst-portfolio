@@ -1,10 +1,9 @@
-# Tryhackme SOC Reports
+# TryHackMe Reports
 
-This folder contains SOC alert investigation reports completed on the Tryhackme platform.
+This folder contains Markdown incident reports from TryHackMe.
 
-Each report includes:
-- Alert analysis
-- Log investigation
-- Evidence screenshots
-- Incident classification
+## Reports
+1. [Intro to Defensive Security](01-Intro-to-Defensive-Security.md)
+2. [SOC Fundamentals](02-SOC-Fundamentals.md)
+3. [Intro to SIEM](03-Intro-to-SIEM.md)
 
