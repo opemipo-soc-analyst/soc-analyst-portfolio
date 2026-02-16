@@ -7,6 +7,5 @@ Each report includes:
 - Log investigation
 - Evidence screenshots
 - Incident classification
-
 ## Reports
 
