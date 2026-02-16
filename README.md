@@ -9,7 +9,7 @@
 
 
 
-## Welcome to my Security Operations Center (SOC) portfolio.  
+### Welcome to my Security Operations Center (SOC) portfolio.  
 This repository documents my hands-on training, investigations, and defensive security practice as I progress toward a Junior SOC Analyst role.
 
 I focus on alert triage, log analysis, incident documentation, and SIEM operations.
