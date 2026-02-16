@@ -5,11 +5,11 @@
 🔗 LinkedIn: [linkedin.com/in/bamgbopa-opemipo](https://www.linkedin.com/in/bamgbopa-opemipo?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Beo72DcitRm%2BPlDt67K4f7g%3D%3D)  
 
 
+---
 
 
 
-Welcome to my Security Operations Center (SOC) portfolio.  
-
+## Welcome to my Security Operations Center (SOC) portfolio.  
 This repository documents my hands-on training, investigations, and defensive security practice as I progress toward a Junior SOC Analyst role.
 
 I focus on alert triage, log analysis, incident documentation, and SIEM operations.
