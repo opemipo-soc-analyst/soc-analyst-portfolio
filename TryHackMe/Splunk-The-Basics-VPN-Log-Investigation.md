@@ -137,3 +137,5 @@ This exercise demonstrates the ability to:
 ---
 
 ## Screenshot Evidence
+
+[Splunk Logs](https://github.com/opemipo-soc-analyst/soc-analyst-portfolio/blob/main/TryHackMe/screenshots/Splunk%20Logs%20.png)
