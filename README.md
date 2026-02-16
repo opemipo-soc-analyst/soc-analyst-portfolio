@@ -11,7 +11,7 @@ This repository demonstrates my practical experience in Security Operations, inc
 
 ### 🔹 LetsDefend Reports
 - **Brute Force Attack** – hands-on alert triage and classification  
-*More LetsDefend reports to be added soon*(https://github.com/opemipo-soc-analyst/soc-analyst-portfolio/blob/main/LetsDefend/Brute-Force-Attack/Brute-Force-Attack.md)
+*More LetsDefend reports to be added soon*
 
 ## 🛠 Skills Demonstrated
 - Alert triage and investigation
