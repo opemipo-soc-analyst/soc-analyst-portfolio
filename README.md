@@ -1,88 +1,83 @@
-# 🛡️ SOC Portfolio – Opemipo Bamgbopa
+# 🛡️ SOC Analyst Portfolio | Detection Engineering & Incident Investigation
 
 📧 Email: opemipobamgbopa1@gmail.com
 
 🔗 LinkedIn: [linkedin.com/in/bamgbopa-opemipo](https://www.linkedin.com/in/bamgbopa-opemipo?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Beo72DcitRm%2BPlDt67K4f7g%3D%3D)  
 
+---
+
+This repository demonstrates hands-on SOC analyst capability through structured investigations, SIEM-based log analysis, alert triage, and attacker behavior analysis.
+
+The focus is practical execution — not theory.
+
+All reports are written to reflect real-world SOC documentation standards and Tier 1 analyst workflows.
 
 ---
 
+## 🔥 Core Competencies Demonstrated
 
-
-### Welcome to my Security Operations Center (SOC) portfolio.  
-This repository documents my hands-on training, investigations, and defensive security practice as I progress toward a Junior SOC Analyst role.
-
-I focus on alert triage, log analysis, incident documentation, and SIEM operations.
-
----
-
-## 📂 Repository Structure
-
-### 1️⃣ TryHackMe
-Contains structured lab documentation from the SOC Level 1 learning path, including:
-
-- SIEM fundamentals
-- Splunk basics
-- Log analysis exercises
-- Defensive security concepts
-- Practical investigation notes
-
-Each lab includes:
-- Scenario overview
-- Query or investigation steps
-- Findings
-- Key takeaways
+- Alert triage and false positive validation
+- Brute force and credential attack investigation
+- PowerShell and suspicious process behavior analysis
+- Log correlation across multiple data sources
+- MITRE ATT&CK technique mapping
+- IOC vs TTP-based detection strategy
+- Incident documentation and reporting
 
 ---
 
-### 2️⃣ LetsDefend
-Contains real-world style SOC alert investigations including:
+## 🛠 Tools & Technologies
 
-- Brute-force attack analysis
-- Phishing investigations
-- Suspicious IP analysis
-- True Positive vs False Positive validation
-- Incident reporting (5W format)
-
-These reports demonstrate:
-- Alert triage skills
-- Log correlation
-- Threat intelligence usage
-- Escalation reasoning
+- Splunk (Log Search & Correlation)
+- Windows Event Logs
+- TryHackMe SOC Level 1 Labs
+- LetsDefend Alert Simulations
+- MITRE ATT&CK Framework
+- Detection Strategy Models (Pyramid of Pain)
 
 ---
 
-### 3️⃣ Home Lab
-Contains documentation of my personal security lab environment, including:
+## 📊 Investigation Methodology
 
-- SIEM setup experiments
-- Endpoint monitoring
-- Log ingestion testing
-- Defensive tool configurations
+Each report follows a structured SOC workflow:
 
-This section demonstrates initiative beyond structured training.
+1. Alert Context
+2. Log Examination
+3. Indicator Analysis
+4. Behavioral Correlation
+5. Attack Classification
+6. Containment Recommendation
+7. Lessons Learned
+
+This portfolio demonstrates not just tool usage — but analytical reasoning and defensive thinking.
 
 ---
 
-## 🧠 Core Skills Demonstrated
+## 📂 Portfolio Sections
 
-- Security Monitoring & Alert Triage
-- Windows Event Log Analysis
-- SIEM Fundamentals (Splunk, Wazuh)
-- Incident Documentation
-- Threat Intelligence Lookups
-- MITRE ATT&CK Mapping
-- Network Traffic Analysis (Wireshark basics)
+| Section | Description |
+|----------|-------------|
+| TryHackMe | SOC Level 1 investigations and defensive detection concepts |
+| LetsDefend | Simulated real-world alert triage scenarios |
+| Home Lab | Independent log analysis and detection experimentation |
+
+---
+
+## 📌 Featured Work
+
+- Brute Force Attack Investigation Report
+- SIEM Log Analysis & Correlation
+- Pyramid of Pain – Behavioral Detection Strategy
+- Core SOC Solutions Documentation
 
 ---
 
 ## 🎯 Career Objective
 
-I am actively building toward an entry-level or Junior SOC Analyst role while leveraging my IT Support background to strengthen my defensive security foundation.
+Seeking Junior SOC Analyst or Tier 1 Security Analyst opportunities 
 
----
-
-📌 This portfolio reflects hands-on lab-based training and simulated SOC investigations as part of continuous learning.
-
-
-
+Focused on delivering:
+- Accurate alert triage
+- Clear incident reporting
+- Strong detection logic
+- Continuous defensive improvement
